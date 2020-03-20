@@ -1,0 +1,47 @@
+[{
+  "Farm_name" : "Farm",
+	  "Animal list" : [
+        {
+            "type" : "Vache",
+            "sex" : "Female",
+            "birthdate" : "12 November 2019",
+            "adult age" : "1",
+            "retirement age" : "3"
+        },
+        {
+            "type" : "Vache",
+            "sex" : "Male",
+            "birthdate" : "12 November 2019",
+            "adult age" : "1",
+            "retirement age" : "3"
+        },
+        {
+            "type" : "Poule",
+            "sex" : "Female",
+            "birthdate" : "3 November 2019",
+            "adult age" : "1",
+            "retirement age" : "6"
+        },
+        {
+            "type" : "Poule",
+            "sex" : "Male",
+            "birthdate" : "4 September 2019",
+            "adult age" : "1",
+            "retirement age" : "6"
+        },
+        {
+            "type" : "Mouton",
+            "sex" : "Female",
+            "birthdate" : "12 january 2019",
+            "adult age" : "1",
+            "retirement age" : "4"
+        },
+        {
+            "type" : "Mouton",
+            "sex" : "Male",
+            "birthdate" : "12 april 2019",
+            "adult age" : "1",
+            "retirement age" : "4"
+        }
+    ]
+}]
